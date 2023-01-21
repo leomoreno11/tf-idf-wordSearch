@@ -1,3 +1,0 @@
-Python is capable of handling files, objects, and creating different applications. We can use Python's extensions and packages to build and develop fully featured applications.
-Suppose you want to control the files in your system; then Python provides an OS Module which has system-enabled functionalities to allow you interact with the files in the operating system.
-Let us see how we can read multiple text files from a folder using the OS module in Python.
